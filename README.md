@@ -3,7 +3,7 @@
   <p>A comprehensive vignette effect filter plugin for OBS Studio with advanced customization options.</p>
   <p>Perfect for streamers, content creators, and professional broadcasters.</p>
 
-  ![Downloads](https://img.shields.io/github/downloads/TheGeekFreaks/Vignetter/total)
+  ![Downloads](https://img.shields.io/github/downloads/The-Geek-Freaks/Vignetter/total)
   ![Version](https://img.shields.io/badge/Version-2.0.0-blue)
   ![Python](https://img.shields.io/badge/OBS--Lua-Compatible-green.svg)
   ![OBS](https://img.shields.io/badge/OBS-30.0+-purple.svg)
